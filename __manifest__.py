@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Hospital OSJ",
+    'name': "Hospital",
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
         subtitle on modules listing or apps.openerp.com""",
@@ -9,7 +9,7 @@
         Long description of module's purpose
     """,
 
-    'author': "Oihane",
+    'author': "Bryan",
     'website': "http://www.yourcompany.com",
     'category': 'Extra Tools',
     'version': '0.1',
